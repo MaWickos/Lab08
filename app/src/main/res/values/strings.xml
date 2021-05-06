@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Lab08v2</string>
+
+    <string name="przyciskSkladuj">SKŁADUJ</string>
+    <string name="przyciskWydaj">WYDAJ</string>
+
+    <string name="tekstData"> Aktualna data </string>
+    <string name="informacje"> Historia zmian produktu. </string>
+    <string name="tekstStanMagazynu"> Wybierz warzywo. </string>
+</resources>
